@@ -1,0 +1,12 @@
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/bin/Debug/net7.0/Banque.deps.json
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/bin/Debug/net7.0/Banque.dll
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/bin/Debug/net7.0/Banque.pdb
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.csproj.AssemblyReference.cache
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.AssemblyInfoInputs.cache
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.AssemblyInfo.cs
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.csproj.CoreCompileInputs.cache
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.dll
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/refint/Banque.dll
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/Banque.pdb
+/Users/sniper/Projects/MOKODIC32023VSTEST/Banque/obj/Debug/net7.0/ref/Banque.dll

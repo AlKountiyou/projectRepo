@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MOKODIC32023VSTEST/1.0.0": {
+        "runtime": {
+          "MOKODIC32023VSTEST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MOKODIC32023VSTEST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
